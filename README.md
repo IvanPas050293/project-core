@@ -1,4 +1,4 @@
-# project-core
+# "My Awesome Project"
 ## Начальный проект
 
 - Initialize the project repository 
