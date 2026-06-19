@@ -1,4 +1,4 @@
-# project-core
+# My Super Project
 ## Начальный проект
 
 - Initialize the project repository 
