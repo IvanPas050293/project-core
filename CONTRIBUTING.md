@@ -1,2 +1,2 @@
-    # Отрабатываем Pull Request
-    # Уже устал.    
+    # Practicing Pull Request
+    # I'm already tired.   
